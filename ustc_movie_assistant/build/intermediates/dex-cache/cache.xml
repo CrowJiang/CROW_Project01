@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-24.1.1_9992809b25775fb7ade4cee7fe15baecdeae5d8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CrowJiang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/pre-dexed/release/support-annotations-24.1.1_747ca9b27927ef9e05cb9662b80fbdd675969747.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/pre-dexed/release/io.reactivex-rxandroid-1.2.1_aaab3bcfa5d60bcd8052d0d70d5cbb496eeb9f0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CrowJiang/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-scalars/2.0.2/a3bfef8122db8c395b4dc7c9845e27829bf6a6f9/converter-scalars-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a3bfef8122db8c395b4dc7c9845e27829bf6a6f9">
+        <dex dex="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/pre-dexed/release/converter-scalars-2.0.2_de849b83a49e133c2bd696f84450af1ab05ec025.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CrowJiang/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.2/a60c039ba54c73d1133b72178e1b04133c73d13d/adapter-rxjava-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a60c039ba54c73d1133b72178e1b04133c73d13d">
+        <dex dex="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/pre-dexed/release/adapter-rxjava-2.0.2_7685a672c19d013e4625c6ba21318bde943f55da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-24.1.1_6460df78b252c508e86258436769c7b41f0fe647.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-24.1.1_cc8553c33c00a18447b0375fc2afe7593039db44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-24.1.1_d93e919779b84381fbeaf7335466bad1d6ff21e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CrowJiang/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/pre-dexed/release/glide-3.7.0_263ddffc003c77287947a2d35de30ade5cb34b0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/pre-dexed/release/internal_impl-24.1.1_943e11c6bdf9774c5fbbc4610558d36421a72c37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/pre-dexed/release/com.android.support-design-24.1.1_ae446ef256633586cacada70cceeaa0bb7a80457.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/exploded-aar/com.udaye.library/pulltoload/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f1e261cc00024d46bce03d7e2bd92c424053ad20">
+        <dex dex="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/pre-dexed/release/com.udaye.library-pulltoload-1.0.0_93c1eae984e393f6c174d63d24a6a7d2221e5a52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CrowJiang/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/pre-dexed/release/converter-gson-2.0.2_d6a24c60cd28783f041fc5bf22beed837a9c6de1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CrowJiang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.0.0/d74fd3315b4575c1cda5e5712d061a7fcdc7d423/logging-interceptor-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d74fd3315b4575c1cda5e5712d061a7fcdc7d423">
+        <dex dex="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/pre-dexed/release/logging-interceptor-3.0.0_54223213f5aaaa524744d6938d58ca5b051b8bd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-24.1.1_21a8803018decdae824cf578609667ff74532c67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CrowJiang/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/pre-dexed/release/okio-1.6.0_39d531eb6ae609c1ad74c4b4068a7a796e824432.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CrowJiang/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/pre-dexed/release/gson-2.6.1_21491ea92201e511c39c3c058b51c0f610070c70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.1.1_d02e6473aa6531f11dff9e3e1893fdb6513acfa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CrowJiang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/pre-dexed/release/okhttp-3.2.0_d7c28f7b908b16e040de299a7f1bb8a15d63461b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CrowJiang/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/pre-dexed/release/android-async-http-1.4.9_e141a3009affc8227c0da416a4e8278a7519e089.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CrowJiang/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/pre-dexed/release/retrofit-2.0.2_18462d2766195df701b77bc5ad5570ba2830c8fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CrowJiang/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/pre-dexed/release/httpclient-4.3.6_d382ffc441ebcc1fd769bfd0303df50093402038.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CrowJiang/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/pre-dexed/release/rxjava-1.1.6_e10db356d5dea1a4569a04050c398e9627d6424d.jar" />
+    </item>
+
+</items>

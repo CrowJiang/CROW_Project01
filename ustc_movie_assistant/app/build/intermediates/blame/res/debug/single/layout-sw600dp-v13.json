@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/CrowJiang/Documents/ASP/ustc_movie_assistant/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/CrowJiang/Documents/ASP/ustc_movie_assistant/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

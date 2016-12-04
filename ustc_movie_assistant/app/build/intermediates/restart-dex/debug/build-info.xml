@@ -5,33 +5,71 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="3561558751002"
-    token="8368333871783878834"
-    verifier="FULL_BUILD_REQUESTED" >
+    timestamp="4453190831592"
+    token="-1236850145933087339"
+    verifier="METHOD_DELETED" >
 
     <task
         name="javac"
-        duration="1394" />
+        duration="1026" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="348" />
+        duration="61" />
     <task
         name="verifier"
-        duration="17" />
+        duration="43" />
 
     <artifact
-        location="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/Users/CrowJiang/Documents/ASP/ustc_movie_assistant/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/CrowJiang/Documents/ASP/ustc_movie_assistant/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/CrowJiang/Documents/ASP/ustc_movie_assistant/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/CrowJiang/Documents/ASP/ustc_movie_assistant/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/CrowJiang/Documents/ASP/ustc_movie_assistant/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="3561558751002"
+        timestamp="2050284517987"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/outputs/apk/app-debug.apk"
+            location="/Users/CrowJiang/Documents/ASP/ustc_movie_assistant/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="2631009299798"
+        verifier="CLASS_ADDED" >
+        <artifact
+            location="/Users/CrowJiang/Documents/ASP/ustc_movie_assistant/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="4453190831592"
+        verifier="METHOD_DELETED" >
+        <artifact
+            location="/Users/CrowJiang/Documents/ASP/ustc_movie_assistant/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/CrowJiang/Documents/ASP/ustc_movie_assistant/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/CrowJiang/Documents/ASP/ustc_movie_assistant/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/CrowJiang/Documents/ASP/ustc_movie_assistant/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/CrowJiang/Documents/ASP/ustc_movie_assistant/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

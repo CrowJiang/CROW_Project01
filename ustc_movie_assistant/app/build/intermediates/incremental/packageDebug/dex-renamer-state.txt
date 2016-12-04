@@ -1,4 +1,7 @@
-#Thu Dec 01 23:20:43 CST 2016
-base.0=/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-renamed.0=classes.dex
-file.0=/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+#Sun Dec 04 15:50:17 CST 2016
+base.0=/Users/CrowJiang/Documents/ASP/ustc_movie_assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ebb6dc4bfb3465e1652738c3dc13acf6d1f89cb3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/CrowJiang/Documents/ASP/ustc_movie_assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_308dbd340f889fa1e40b5ad1a2094e29d3e86e24/classes.dex
+base.1=/Users/CrowJiang/Documents/ASP/ustc_movie_assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_308dbd340f889fa1e40b5ad1a2094e29d3e86e24
+file.0=/Users/CrowJiang/Documents/ASP/ustc_movie_assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ebb6dc4bfb3465e1652738c3dc13acf6d1f89cb3/classes.dex

@@ -2,9 +2,5 @@
     {
         "merged": "/Users/CrowJiang/Documents/ASP/ustc_movie_assistant/app/build/intermediates/res/merged/debug/animator/raise.xml",
         "source": "/Users/CrowJiang/Documents/ASP/ustc_movie_assistant/app/src/main/res/animator/raise.xml"
-    },
-    {
-        "merged": "/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/build/intermediates/res/merged/debug/animator/raise.xml",
-        "source": "/Users/CrowJiang/Documents/ASP/example-douban-movie-master/app/src/main/res/animator/raise.xml"
     }
 ]
